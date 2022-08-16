@@ -1,0 +1,7 @@
+{
+  "name": "control-volumetrico",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

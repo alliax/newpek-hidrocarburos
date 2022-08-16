@@ -1,0 +1,6 @@
+{
+  "name": "control-volumetrico",
+  "devDependencies": {
+    "@capacitor/cli": "^3.2.5"
+  }
+}
